@@ -1,5 +1,4 @@
-# -SE-Programming-Projects<h2 align="left">
- <h2 align="left">
+# -SE-Programming-Projects<h2 align="left"><h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm **Zeid**, a Software Engineer & Problem Solver <br>
@@ -24,13 +23,17 @@ Peace be upon you! I'm Zeid, a Software Engineer. This repository is a log of my
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🎓 **Academic Background:** Completed a full year of Mathematics studies, providing a strong logical foundation.
+- 🎓 **Academic Background:** Completed a full year of Mathematics studies at university, providing a strong logical foundation.
 - 📈 **Trading Expert:** 3 years of experience in Financial Markets & Trading, specializing in technical analysis.
-- 💻 **Tech Stack:** Expertly handling **C++**, **Algorithms**, **Data Structures**, and **Problem Solving**.
+- 💻 **Tech Stack:** Specialized in **C++**, **Data Structures**, **Algorithms**, and **Problem Solving**.
 - 🎯 **Current Goal:** Mastering advanced Software Engineering principles and optimizing complex logic.
 - ⚡ **Fun Fact:** I analyze code with the same precision I use to read trading charts!
 
 <h2 align="left">:heart: Let's Connect:</h2>
 <p align="left">
-<a href="
+<a href="https://www.linkedin.com/in/zeid-chikha-6b5a232b6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/zeid.chikha" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:zaidshikha434@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
+---
