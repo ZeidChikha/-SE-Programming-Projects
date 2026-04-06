@@ -4,7 +4,7 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm **Zeid**, a Software Engineer & Full Stack Web Developer <br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://media.giphy.com/media/LmNTr4v7rG4C8HhD6X/giphy.gif" alt="Coder in Black Hoodie and Cap" width="500">
  </abc>
 </h2> 
 
@@ -49,25 +49,4 @@ Peace be upon you! I'm Zeid, a Software Engineer and Full Stack Web Developer. T
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools:</h2>
 <p align="left">
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
-    <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/> </a>
-    <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-algorithm-coding-and-development-flat-flat-juicy-fish.png" alt="algorithms" width="45" height="45"/>
-</p>
-
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- 🎓 **Academic Background:** Completed a full year of Mathematics studies, which built my logical foundation for engineering.
-- 📈 **Trading Expert:** 3 years of experience in Financial Markets, specializing in data analysis and technical strategies.
-- 💻 **Tech Stack:** Proficient in **C++**, **Full Stack Web Development**, **Algorithms**, and **Logical Problem Solving**.
-- 🎯 **Current Goal:** Mastering software architecture and building high-performance applications.
-- ⚡ **Fun Fact:** I treat every line of code like a trading position – it has to be precise and well-calculated!
-
-<h2 align="left">:heart: Let's Connect:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/zeid-chikha-6b5a232b6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/zeid.chikha" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:zaidshikha434@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.
