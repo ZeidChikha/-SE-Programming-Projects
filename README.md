@@ -2,8 +2,7 @@
 <h2 align="left">🚀 My Journey Summary:</h2>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="25" />
-  <b><font size="4" color="#58a6ff"> Peace be upon you!</font></b>
+  👋 <b><font size="4" color="#58a6ff"> Peace be upon you!</font></b>
 </p>
 
 <p>
@@ -11,8 +10,7 @@
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Check%20Mark%20Button.png" width="20" /> 
-  <b>I have successfully completed 9 diverse software projects:</b>
+  ✅ <b>I have successfully completed 9 diverse software projects:</b>
 </p>
 
 <ul>
@@ -28,8 +26,7 @@
 </ul>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bulb.png" width="20" /> 
-  <b>I have solved more than <font color="#58a6ff">300 logical & algorithmic problems</font>.</b>
+  💡 <b>I have solved more than <font color="#58a6ff">300 logical & algorithmic problems</font>.</b>
 </p>
 
 ---
