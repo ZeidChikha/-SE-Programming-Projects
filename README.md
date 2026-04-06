@@ -1,7 +1,8 @@
 # -SE-Programming-Projects<h2 align="left"><h2 align="left">
+<h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm **Zeid**, a Software Engineer & Problem Solver <br>
+  <br> I'm **Zeid**, a Software Engineer & Full Stack Web Developer <br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -9,7 +10,7 @@
 
 <h2 align="left">🚀 My Journey Summary:</h2>
 <p>
-Peace be upon you! I'm Zeid, a Software Engineer. This repository is a log of my journey in the programming world, where I showcase all the projects I've built and the logical solutions I've engineered for complex programming problems.
+Peace be upon you! I'm Zeid, a Software Engineer and Full Stack Web Developer. This repository is a log of my journey in the programming world, where I showcase all the projects I've built and the logical solutions I've engineered for complex programming problems.
 </p>
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools:</h2>
@@ -17,17 +18,16 @@ Peace be upon you! I'm Zeid, a Software Engineer. This repository is a log of my
     <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
     <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/> </a>
-    <img src="https://img.icons8.com/color/48/000000/mathematics.png" alt="math" width="45" height="45"/>
     <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-algorithm-coding-and-development-flat-flat-juicy-fish.png" alt="algorithms" width="45" height="45"/>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🎓 **Academic Background:** Completed a full year of Mathematics studies at university, providing a strong logical foundation.
-- 📈 **Trading Expert:** 3 years of experience in Financial Markets & Trading, specializing in technical analysis.
-- 💻 **Tech Stack:** Specialized in **C++**, **Data Structures**, **Algorithms**, and **Problem Solving**.
-- 🎯 **Current Goal:** Mastering advanced Software Engineering principles and optimizing complex logic.
-- ⚡ **Fun Fact:** I analyze code with the same precision I use to read trading charts!
+- 🎓 **Academic Background:** Completed a full year of Mathematics studies, which built my logical foundation for engineering.
+- 📈 **Trading Expert:** 3 years of experience in Financial Markets, specializing in data analysis and technical strategies.
+- 💻 **Tech Stack:** Proficient in **C++**, **Full Stack Web Development**, **Algorithms**, and **Logical Problem Solving**.
+- 🎯 **Current Goal:** Mastering software architecture and building high-performance applications.
+- ⚡ **Fun Fact:** I treat every line of code like a trading position – it has to be precise and well-calculated!
 
 <h2 align="left">:heart: Let's Connect:</h2>
 <p align="left">
@@ -37,3 +37,4 @@ Peace be upon you! I'm Zeid, a Software Engineer. This repository is a log of my
 </p>
 
 ---
+
