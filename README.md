@@ -4,7 +4,7 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm **Zeid**, a Software Engineer & Full Stack Web Developer <br>
   <br>
-    <img src="https://media.giphy.com/media/LmNTr4v7rG4C8HhD6X/giphy.gif" alt="Coder in Black Hoodie and Cap" width="500">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGIxdm16Z3N6cXN6cXN6cXN6cXN6cXN6cXN6cXN6cXN6cXN6cXN6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder in Black Hoodie and Cap" width="500">
  </abc>
 </h2> 
 
@@ -53,13 +53,6 @@ Welcome! I'm Zeid, a Software Engineer and Full Stack Web Developer. This reposi
     <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/> </a>
     <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-algorithm-coding-and-development-flat-flat-juicy-fish.png" alt="algorithms" width="45" height="45"/>
 </p>
-
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- 🎓 **Academic Background:** Completed a full year of Mathematics studies.
-- 📈 **Trading Expert:** 3 years of experience in Financial Markets.
-- 💻 **Tech Stack:** Specialized in **C++**, **Algorithms**, and **Problem Solving**.
-- ⚡ **Goal:** Building high-performance software and logical systems.
 
 <h2 align="left">:heart: Let's Connect:</h2>
 <p align="left">
