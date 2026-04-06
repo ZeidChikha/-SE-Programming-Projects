@@ -1,19 +1,35 @@
 # -SE-Programming-Projects
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="25" />
+<h2 align="left">🚀 My Journey Summary:</h2>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="25" />
   <b><font size="4" color="#58a6ff"> Peace be upon you!</font></b>
 </p>
 
-<p align="center">
-  I'm <b>Zeid</b>, a passionate <b>Software Engineer</b> & <b>Full Stack Web Developer</b>. <br>
-  ✨ <i>This repository serves as a digital log of my journey through the world of programming.</i> ✨
+<p>
+  I'm <b>Zeid</b>, a Software Engineer & Full Stack Web Developer. This repository is a <b>digital log</b> of my journey in the programming world, where I showcase all the projects I've built and the logical solutions I've engineered for complex programming problems.
 </p>
 
-<p align="center">
-  🎯 Here, I showcase the <b>architected projects</b> and <b>logical solutions</b> <br>
-  I've engineered to tackle complex programming challenges.
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Check%20Mark%20Button.png" width="20" /> 
+  <b>I have successfully completed 9 diverse software projects:</b>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" />
+<ul>
+  <li><b>Math Game Program</b> 🎮</li>
+  <li><b>Rock-Paper-Scissors Program</b> ✊✋✌️</li>
+  <li><b>High Precision Age Calculator</b> ⏳</li>
+  <li><b>Bank Management System</b> (Level 1 & 2) 🏦</li>
+  <li><b>Student Grade Management System</b> 🎓</li>
+  <li><b>Prayer Times Program</b> 🕌</li>
+  <li><b>Simple Calculator Program</b> ➕</li>
+  <li><b>Number Guessing Game</b> 🎯</li>
+  <li><b>Integrated Library Project</b> 📚</li>
+</ul>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bulb.png" width="20" /> 
+  <b>I have solved more than <font color="#58a6ff">300 logical & algorithmic problems</font>.</b>
 </p>
+
+---
